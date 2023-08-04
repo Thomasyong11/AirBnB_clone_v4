@@ -155,5 +155,6 @@ No known bugs at this time.
 
 ## Authors
 Adjamkwalim Akum-Yong
+
 Manuel Junior
 
